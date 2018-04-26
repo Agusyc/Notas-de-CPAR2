@@ -52,15 +52,15 @@ En esta etapa se detallarán los pasos para crear un juego de mesa.
 
 [5]: El desafío y la destreza del jugador deben estar más o menos balanceados para que no haya aburrimiento ni ansiedad, y así entrar en un estado de inmersión o [flujo](https://es.wikipedia.org/wiki/Flujo_(psicolog%C3%ADa)).
 Para lograr esto se puede utilizar:
-* Múltiples acciones
-* Múltiples objetivos
-* Múltiples caminos
-* Múltiples sujetos
-* Múltiples consecuencias
+* Múltiples acciones.
+* Múltiples objetivos.
+* Múltiples caminos.
+* Múltiples sujetos.
+* Múltiples consecuencias.
 
 [6]: El target es a quién va dirigido el juego. Se tiene que tener en cuenta la edad del jugador, blahblahblah y el tipo de jugador. Los distintos tipos son:
 * Asesino: Es actuador. Quiere hacer que el resto tenga una mala partida.
-* Ganador: Es actuador. Quiere ganar a toda costa
+* Ganador: Es actuador. Quiere ganar a toda costa.
 * Explorador: Es interactuador. Le gusta descubrir todo sobre el juego.
 * Socializador: Es interactuador. Le gusta interactuar con los otros jugadores o sus personajes.
 
