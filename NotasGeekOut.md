@@ -8,15 +8,25 @@ Habrá más detalles de cada característica en la sección de Anotaciones.
 * Tienen que tener objetivo. [1]
 * Se tienen que ganar o perder, ya sea un grupo, todos los jugadores o uno solo.
 * Tienen que tener un desafío. [5]
-* Se deben jugador con actitud alegre.
+* No debe ser muy complicado.
+* Se deben jugar con actitud alegre.
 * Debe ser divertido, al enseñar cosas. [2][3]
 * Se debe ingresar voluntariamente.
-* No debe ser muy complicado.
 * El jugador debe tener decisión, pero sin demasiadas opciones que no sean interesantes. [4]
 * Tiene que tener patrones.
 * Debe tener un target. [6]
 
 Todas estas características componen la mecánica, dinámica y estética del juego.
+
+## Etapas de la creación de un juego
+En esta etapa se detallarán los pasos para crear un juego de mesa.
+
+* Concepto: Debe haber un concepto que dispare el resto de ideas.
+* Idea: Se plantea un core-loop. El recorrido de un juego. Es un bucle de interacciones entre los jugadores.
+* Prototipo: Se hacen pruebas rápidas de las mecánicas.
+* Versión jugable: Juego funcional con el que se prueban las mecánicas.
+* Alpha: Versión completa del juego, en el cual se refina la UX.
+* Beta: Juego final con todos, o casi todos los errores resueltos.
 
 ## Anotaciones
 [1]: Las reglas y el objetivo no son lo mismo. El objetivo es lo que el jugador debe obtener/realizar del/para el juego. Por ejemplo, en un crucigrama, debe pensar acerca de las palabras de una manera distinta.
