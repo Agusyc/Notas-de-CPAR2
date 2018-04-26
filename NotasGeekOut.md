@@ -10,7 +10,7 @@ Habrá más detalles de cada característica en la sección de Anotaciones.
 * Tienen que tener un desafío. [5]
 * No debe ser muy complicado.
 * Se deben jugar con actitud alegre.
-* Debe ser divertido, al enseñar cosas. [2][3]
+* Debe ser divertido, al enseñar cosas. [2][3][7]
 * Se debe ingresar voluntariamente.
 * El jugador debe tener decisión, pero sin demasiadas opciones que no sean interesantes. [4]
 * Tiene que tener patrones.
@@ -63,3 +63,11 @@ Para lograr esto se puede utilizar:
 	* Ganador: Quiere ganar a toda costa
 	* Explorador: ????????
 	* ??????????: ????????
+
+[7]: Para evitar que un juego se vuelva aburrido, se debe evitar que:
+	* Se aprenda todo rápidamente.
+	* El jugador considere que ya se lo aprendió.
+	* Haya demasiadas opciones pero no son interesantes.
+	* No se encuentren patrones (demasiado difícil).
+	* Tenga demasiadas variaciones muy rápido, se pierde el control del patrón (demasiado difícil).
+	* El ritmo sea repetitivo con pocas variaciones (demasiado fácil).
