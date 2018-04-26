@@ -59,10 +59,10 @@ Para lograr esto se puede utilizar:
 * Múltiples consecuencias
 
 [6]: El target es a quién va dirigido el juego. Se tiene que tener en cuenta la edad del jugador, blahblahblah y el tipo de jugador. Los distintos tipos son:
-* Asesino: Quiere hacer que el resto tenga una mala partida.
-* Ganador: Quiere ganar a toda costa
-* Explorador: ????????
-* ??????????: ????????
+* Asesino: Es actuador. Quiere hacer que el resto tenga una mala partida.
+* Ganador: Es actuador. Quiere ganar a toda costa
+* Explorador: Es interactuador. Le gusta descubrir todo sobre el juego.
+* Socializador: Es interactuador. Le gusta interactuar con los otros jugadores o sus personajes.
 
 [7]: Para evitar que un juego se vuelva aburrido, se debe evitar que:
 * Se aprenda todo rápidamente.
