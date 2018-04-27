@@ -14,3 +14,5 @@ El uso de la Big Data es el mismo que se le han dado a los datos desde hace tiem
 * Tener conocimiento de la disciplina.
 * Ser estadístico y matemático.
 * Ser técnico y/o programador.
+
+Lo ideal es tener un equipo de analistas con distintas habilidades.
