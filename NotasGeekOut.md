@@ -24,6 +24,7 @@ Para lograr esto se puede utilizar:
   * Relación espacial.
   * Memoria.
   * Interacción social.
+
 Para evitar que un juego se vuelva aburrido, se debe evitar que:
   * Se aprenda todo rápidamente.
   * El jugador considere que ya se lo aprendió.
