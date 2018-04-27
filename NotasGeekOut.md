@@ -1,8 +1,7 @@
 # Juegos:
 
-## Características básicas
-Esta sección tendrá las características básicas de cualquier juego de calidad.
-Habrá más detalles de cada característica en la sección de Anotaciones.
+## Características
+Esta sección tendrá las características de cualquier juego de calidad.
 
 * Tienen que tener reglas.
 * Tienen que tener objetivo. Las reglas y el objetivo no son lo mismo. El objetivo es lo que el jugador debe obtener/realizar del/para el juego. Por ejemplo, en un crucigrama, debe pensar acerca de las palabras de una manera distinta.
@@ -24,14 +23,6 @@ Para lograr esto se puede utilizar:
   * Relación espacial.
   * Memoria.
   * Interacción social.
-
-Para evitar que un juego se vuelva aburrido, se debe evitar que:
-  * Se aprenda todo rápidamente.
-  * El jugador considere que ya se lo aprendió.
-  * Haya demasiadas opciones pero no son interesantes.
-  * No se encuentren patrones (demasiado difícil).
-  * Tenga demasiadas variaciones muy rápido, se pierde el control del patrón (demasiado difícil).
-* El ritmo sea repetitivo con pocas variaciones (demasiado fácil).
 * Se debe ingresar voluntariamente.
 * El jugador debe tener decisión, pero sin demasiadas opciones que no sean interesantes. Tipos de decisiones:
   * Decisiones obvias: La mejor opción es evidente.
@@ -48,6 +39,14 @@ Para evitar que un juego se vuelva aburrido, se debe evitar que:
 * Socializador: Es interactuador. Le gusta interactuar con los otros jugadores o sus personajes.
 
 Todas estas características componen la mecánica, dinámica y estética del juego.
+
+Para que un juego no se vuelva aburrido, se debe evitar que:
+* Se aprenda todo rápidamente.
+* El jugador considere que ya se lo aprendió.
+* Haya demasiadas opciones pero no son interesantes.
+* No se encuentren patrones (demasiado difícil).
+* Tenga demasiadas variaciones muy rápido, se pierde el control del patrón (demasiado difícil).
+* El ritmo sea repetitivo con pocas variaciones (demasiado fácil).
 
 ## Etapas de la creación de un juego
 En esta etapa se detallarán los pasos para crear un juego de mesa.
