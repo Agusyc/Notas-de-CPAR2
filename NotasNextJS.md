@@ -109,7 +109,7 @@ export default class extends React.Component
  }
 ```
 
-En este archivo, hemos creado una clase que extiende a React.Component. Tiene un método render(), que se encarga de renderizar la página web. Por así decirlo, se encarga de la parte gráfica de la misma. En este caso, vamos a mostrar un header 1 (<h1>) con el texto "¡Hola, Campus Party!". El texto puede ser cualquier cosa que quieran.
+En este archivo, hemos creado una clase que extiende a React.Component. Tiene un método render(), que se encarga de renderizar la página web. Por así decirlo, se encarga de la parte gráfica de la misma. En este caso, vamos a mostrar un header 1 (h1) con el texto "¡Hola, Campus Party!". El texto puede ser cualquier cosa que quieran.
 
 ### Corriendo la aplicación
 Para iniciar la aplicación, debemos ejecutar el comando
