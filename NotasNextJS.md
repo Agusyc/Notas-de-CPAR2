@@ -75,12 +75,6 @@ El archivo terminado debe verse como este, pero con sus datos propios o los pred
   },
   "keywords": [],
   "author": "Agustín Roth",
-  "license": "WTFPL",
-  "dependencies": {
-    "isomorphic-fetch": "^2.2.1",
-    "next": "^5.1.0",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2"
-  }
+  "license": "WTFPL" 
 }
 ```
