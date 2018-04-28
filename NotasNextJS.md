@@ -78,3 +78,44 @@ El archivo terminado debe verse como este, pero con sus datos propios o los pred
   "license": "WTFPL" 
 }
 ```
+
+### Agregando las dependencias
+Para que nuestra aplicación web funcione, debemos agregar al package.json nuestras dependencias. Para hacer esto, utilizamos el comando
+
+```bash
+npm add next react react-dom isomorphic-fetch
+```
+
+Esperen unos minutos a que npm termine de descargar e instalar las dependencias.
+
+### Creando nuestra primer página
+Las aplicaciones web que crearemos están basadas en páginas, las cuales irán en una carpeta llamada "pages". Para crear esta carpeta, ejecutamos
+
+```bash
+mkdir page
+```
+
+Con tu editor favorito, crea un archivo llamado "index.js". Este archivo será el que contendrá todo el código de la página principal de nuestra aplicación.
+
+El contenido de estea rchivo debería ser
+
+```javascript
+export default class extends React.Component
+ {
+   render()
+    {
+     return (<h1>¡Hola, Campus Party!</h1>)
+    }
+ }
+```
+
+En este archivo, hemos creado una clase que extiende a React.Component. Tiene un método render(), que se encarga de renderizar la página web. Por así decirlo, se encarga de la parte gráfica de la misma. En este caso, vamos a mostrar un header 1 (<h1>) con el texto "¡Hola, Campus Party!". El texto puede ser cualquier cosa que quieran.
+
+### Corriendo la aplicación
+Para iniciar la aplicación, debemos ejecutar el comando
+
+```bash
+npm run dev
+```
+
+Luego, deben ir a su navegador favorito e ingresar "localhost:3000" en el campo de la URL, y luego ingresar a la misma.
